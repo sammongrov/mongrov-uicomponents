@@ -1,0 +1,250 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`chat navbar renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      null,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 18,
+            "height": 36,
+            "opacity": 1,
+            "width": 36,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "fontFamily": "OpenSans-Regular",
+            },
+            Array [
+              undefined,
+            ],
+          ]
+        }
+      >
+        John
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`navbar title renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      null,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "red",
+              "fontSize": 24,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`navbar title renders correctly 2`] = `
+<View
+  style={
+    Array [
+      undefined,
+      null,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+        null,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      numberOfLines={1}
+      style={
+        Array [
+          Object {
+            "fontFamily": "OpenSans-Regular",
+          },
+          Array [
+            undefined,
+            null,
+          ],
+        ]
+      }
+    >
+      John
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

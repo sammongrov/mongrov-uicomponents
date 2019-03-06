@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Disclaimer renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <RCTScrollView
+    showsVerticalScrollIndicator={false}
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "OpenSans-Regular",
+            },
+            null,
+          ]
+        }
+      >
+        Disclaimer is agreed
+      </Text>
+    </View>
+  </RCTScrollView>
+  <View>
+    <View
+      style={
+        Array [
+          Array [
+            undefined,
+            undefined,
+          ],
+          false,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#2089dc",
+                "borderRadius": 3,
+                "flexDirection": "row",
+                "justifyContent": "center",
+              },
+              Array [
+                undefined,
+              ],
+              false,
+              false,
+              false,
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "white",
+                  "fontSize": 18,
+                  "padding": 8,
+                  "textAlign": "center",
+                },
+                undefined,
+                false,
+                false,
+              ]
+            }
+          >
+            I Accept
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

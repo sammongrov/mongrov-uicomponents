@@ -1,0 +1,757 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#7597ad",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          A
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`announcement renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    hello
+  </Text>
+</View>
+`;
+
+exports[`email information renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#8E8E93",
+            "fontSize": 17,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Material Design Icons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+      type="material-community"
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "OpenSans-Regular",
+          },
+          Array [
+            undefined,
+          ],
+        ]
+      }
+    >
+      john@gmail.com
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`login time renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#8E8E93",
+            "fontSize": 17,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Material Design Icons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+      type="material-community"
+    >
+      肋
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "OpenSans-Regular",
+          },
+          Array [
+            undefined,
+          ],
+        ]
+      }
+    >
+      Last Login at 12:00 AM
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`member data renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    john
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    7 members (5) online
+  </Text>
+</View>
+`;
+
+exports[`status text renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "backgroundColor": null,
+          },
+        ]
+      }
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "OpenSans-Regular",
+          },
+          Array [
+            undefined,
+          ],
+        ]
+      }
+    >
+      online
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`username renders correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      null,
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "position": "relative",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2E88FF",
+            "borderRadius": 30,
+            "height": 60,
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "OpenSans-Regular",
+              },
+              null,
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-Regular",
+        },
+        Array [
+          undefined,
+          undefined,
+        ],
+      ]
+    }
+  >
+    john
+  </Text>
+</View>
+`;

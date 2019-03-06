@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`android 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": "45%",
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#007AFF",
+      }
+    }
+  >
+    33%
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "flex-start",
+          "borderColor": "red",
+          "borderWidth": 1,
+        },
+        Object {
+          "width": "60%",
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`ios 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": "45%",
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#007AFF",
+      }
+    }
+  >
+    99%
+  </Text>
+  <RCTProgressView
+    progress={1}
+    progressTintColor="#007AFF"
+    progressViewStyle="bar"
+    style={
+      Array [
+        Object {
+          "height": 2,
+        },
+        Object {
+          "width": "60%",
+        },
+      ]
+    }
+    trackTintColor="#A6B9D8"
+  />
+</View>
+`;
+
+exports[`render correctly without props 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": "45%",
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#007AFF",
+      }
+    }
+  >
+    0%
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "flex-start",
+          "borderColor": "red",
+          "borderWidth": 1,
+        },
+        Object {
+          "width": "60%",
+        },
+      ]
+    }
+  />
+</View>
+`;

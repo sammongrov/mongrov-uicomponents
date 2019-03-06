@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`if line 202 else value, and line 147 else value 1`] = `
+<View
+  style={null}
+>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          numberOfLines={1}
+          style={
+            Array [
+              undefined,
+              Object {
+                "color": "#fff",
+              },
+            ]
+          }
+        >
+          test-username:
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+            }
+          }
+        >
+          test-text1
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "overflow": "hidden",
+              },
+              undefined,
+            ]
+          }
+        >
+          <FastImageView
+            resizeMode="cover"
+            source={
+              Object {
+                "priority": "high",
+                "uri": "http://test-images/test-image1.png",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        childrenProps={Object {}}
+        ellipsizeMode="tail"
+        parse={
+          Array [
+            Object {
+              "onPress": [Function],
+              "style": Object {
+                "color": "white",
+                "textDecorationLine": "underline",
+              },
+              "type": "url",
+            },
+            Object {
+              "onPress": [Function],
+              "style": Object {
+                "color": "white",
+                "textDecorationLine": "underline",
+              },
+              "type": "phone",
+            },
+            Object {
+              "onPress": [Function],
+              "style": Object {
+                "color": "white",
+                "textDecorationLine": "underline",
+              },
+              "type": "email",
+            },
+          ]
+        }
+        style={
+          Array [
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "lineHeight": 20,
+              "marginBottom": 5,
+              "marginLeft": 10,
+              "marginRight": 10,
+              "marginTop": 5,
+            },
+            undefined,
+            Object {},
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          test-text
+        </Text>
+      </Text>
+    </View>
+  </View>
+</View>
+`;

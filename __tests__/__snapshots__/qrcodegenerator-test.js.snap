@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge renders correctly 1`] = `
+<View>
+  <RNSVGSvgView
+    bbHeight="150"
+    bbWidth="150"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+        },
+        undefined,
+        false,
+        Object {
+          "flex": 0,
+          "height": 150,
+          "width": 150,
+        },
+      ]
+    }
+  >
+    <RNSVGRect
+      fill={
+        Array [
+          0,
+          1,
+          1,
+          1,
+          1,
+        ]
+      }
+      fillOpacity={1}
+      fillRule={1}
+      height="150"
+      matrix={
+        Array [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+        ]
+      }
+      opacity={1}
+      originX={0}
+      originY={0}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+      rotation={0}
+      rx="0"
+      ry="0"
+      scaleX={1}
+      scaleY={1}
+      skewX={0}
+      skewY={0}
+      stroke={null}
+      strokeDasharray={null}
+      strokeDashoffset={null}
+      strokeLinecap={0}
+      strokeLinejoin={0}
+      strokeMiterlimit={4}
+      strokeOpacity={1}
+      strokeWidth="1"
+      width="150"
+      x="0"
+      y="0"
+    />
+    <RNSVGPath
+      d="M0 3 L42 3 M78 3 L102 3 M108 3 L150 3 M0 9 L6 9 M36 9 L42 9 M48 9 L54 9 M66 9 L72 9 M84 9 L102 9 M108 9 L114 9 M144 9 L150 9 M0 15 L6 15 M12 15 L30 15 M36 15 L42 15 M66 15 L78 15 M84 15 L90 15 M108 15 L114 15 M120 15 L138 15 M144 15 L150 15 M0 21 L6 21 M12 21 L30 21 M36 21 L42 21 M60 21 L72 21 M78 21 L84 21 M90 21 L96 21 M108 21 L114 21 M120 21 L138 21 M144 21 L150 21 M0 27 L6 27 M12 27 L30 27 M36 27 L42 27 M48 27 L54 27 M60 27 L96 27 M108 27 L114 27 M120 27 L138 27 M144 27 L150 27 M0 33 L6 33 M36 33 L42 33 M54 33 L66 33 M72 33 L78 33 M84 33 L96 33 M108 33 L114 33 M144 33 L150 33 M0 39 L42 39 M48 39 L54 39 M60 39 L66 39 M72 39 L78 39 M84 39 L90 39 M96 39 L102 39 M108 39 L150 39 M54 45 L72 45 M90 45 L102 45 M0 51 L6 51 M12 51 L18 51 M24 51 L30 51 M36 51 L42 51 M66 51 L72 51 M96 51 L102 51 M120 51 L126 51 M138 51 L144 51 M6 57 L18 57 M48 57 L84 57 M96 57 L120 57 M126 57 L150 57 M0 63 L12 63 M18 63 L24 63 M36 63 L54 63 M60 63 L66 63 M84 63 L90 63 M108 63 L150 63 M0 69 L6 69 M12 69 L24 69 M42 69 L54 69 M60 69 L66 69 M78 69 L90 69 M96 69 L108 69 M114 69 L120 69 M138 69 L144 69 M12 75 L24 75 M30 75 L48 75 M60 75 L72 75 M84 75 L114 75 M126 75 L132 75 M6 81 L30 81 M42 81 L48 81 M66 81 L72 81 M84 81 L90 81 M96 81 L102 81 M126 81 L132 81 M138 81 L150 81 M0 87 L6 87 M12 87 L24 87 M36 87 L42 87 M48 87 L66 87 M78 87 L84 87 M108 87 L114 87 M120 87 L132 87 M138 87 L150 87 M6 93 L12 93 M24 93 L36 93 M66 93 L72 93 M114 93 L120 93 M126 93 L132 93 M138 93 L144 93 M0 99 L6 99 M12 99 L60 99 M72 99 L78 99 M96 99 L126 99 M138 99 L150 99 M48 105 L54 105 M66 105 L84 105 M90 105 L102 105 M120 105 L132 105 M0 111 L42 111 M66 111 L78 111 M84 111 L90 111 M96 111 L102 111 M108 111 L114 111 M120 111 L126 111 M132 111 L150 111 M0 117 L6 117 M36 117 L42 117 M60 117 L66 117 M72 117 L90 117 M96 117 L102 117 M120 117 L126 117 M138 117 L150 117 M0 123 L6 123 M12 123 L30 123 M36 123 L42 123 M48 123 L54 123 M60 123 L72 123 M84 123 L90 123 M96 123 L126 123 M144 123 L150 123 M0 129 L6 129 M12 129 L30 129 M36 129 L42 129 M54 129 L60 129 M66 129 L72 129 M84 129 L96 129 M114 129 L138 129 M0 135 L6 135 M12 135 L30 135 M36 135 L42 135 M48 135 L60 135 M78 135 L84 135 M96 135 L114 135 M120 135 L138 135 M144 135 L150 135 M0 141 L6 141 M36 141 L42 141 M54 141 L72 141 M90 141 L108 141 M120 141 L126 141 M138 141 L144 141 M0 147 L42 147 M48 147 L54 147 M60 147 L66 147 M72 147 L78 147 M96 147 L102 147 M120 147 L132 147 M138 147 L150 147 "
+      fill={
+        Array [
+          0,
+          0,
+          0,
+          0,
+          1,
+        ]
+      }
+      fillOpacity={1}
+      fillRule={1}
+      matrix={
+        Array [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+        ]
+      }
+      opacity={1}
+      originX={0}
+      originY={0}
+      propList={
+        Array [
+          "stroke",
+          "strokeWidth",
+        ]
+      }
+      rotation={0}
+      scaleX={1}
+      scaleY={1}
+      skewX={0}
+      skewY={0}
+      stroke={
+        Array [
+          0,
+          0.03529411764705882,
+          0.03529411764705882,
+          0.03529411764705882,
+          1,
+        ]
+      }
+      strokeDasharray={null}
+      strokeDashoffset={null}
+      strokeLinecap={0}
+      strokeLinejoin={0}
+      strokeMiterlimit={4}
+      strokeOpacity={1}
+      strokeWidth="6"
+      x={0}
+      y={0}
+    />
+  </RNSVGSvgView>
+</View>
+`;
