@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import theme, { styles } from 'react-native-theme';
 import Button from './Button';
 import Text from './Text';
-import { translate } from '../i18n';
+import { translate } from '../../../src/i18n';
 
 export default class Disclaimer extends Component {
   constructor(props) {
